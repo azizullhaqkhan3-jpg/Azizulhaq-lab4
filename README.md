@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Course App
 
 A Flutter application for managing student courses with a clean UI and full CRUD functionality.
@@ -43,3 +44,6 @@ Shows a welcome card with styled UI.
 
 ```bash
 flutter run
+=======
+# Azizulhaq-lab4
+>>>>>>> 891fdb51949e3c89427c7cf51516c6110c609a30
